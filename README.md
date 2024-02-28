@@ -1,7 +1,7 @@
 # Vit_PlantSeedling_Classification
 
 ## Project Description
-This project focuses on the classification of plant seedling images using the Vision Transformer (ViT) architecture, showcasing its potential in image recognition tasks. By leveraging ViT, this project aims to accurately classify different species of plant seedlings, contributing to agricultural research and automation efforts.
+This project focuses on the classification of plant seedling images using the Vision Transformer (ViT) architecture, showcasing its potential in image recognition tasks. By leveraging ViT, this project aims to accurately classify different species of plant seedlings, contributing to agricultural research and automation efforts.Also This project explore the interpretation of Vision Transformer by drawing heatmaps through the extracted attention weights for each layer of the model.
 
 ## Table of Contents
 - [Installation](#installation)
