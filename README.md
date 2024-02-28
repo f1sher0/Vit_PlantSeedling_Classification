@@ -18,8 +18,8 @@ This project focuses on the classification of plant seedling images using the Vi
 ## Installation
 To set up this project, follow these steps:
 1. Clone the repository to your local machine.
-2. Ensure Python 3.x is installed.
-3. Install the required dependencies: `pip install -r requirements.txt` (You may need to create this file listing all the necessary libraries, such as `torch`, `torchvision`, `matplotlib`, `PIL`, etc.)
+2. Ensure Python >= 3.8 is installed.
+3. Install the required dependencies, such as `torch`, `torchvision`, `matplotlib`, `PIL`, etc.
 
 ## Usage
 To use this project, run the following scripts in order:
@@ -55,4 +55,4 @@ This project is released under the MIT License. See the LICENSE file for more de
 - Gratitude to the agricultural research community for providing the plant seedlings dataset.
 
 ## Contact Information
-For questions or support, please contact [Your Name] at [Your Email].
+For questions or support, please contact at f1sher0@163.com.
